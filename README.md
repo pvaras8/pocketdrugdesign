@@ -5,16 +5,17 @@ This repository focuses on drug design using pocket-based methods that utilize t
 
 ## Pocket-Based Algorithms
 We employ several state-of-the-art algorithms including:
-- **DiffSBDD**: A diffusion model that generates novel ligands with high predicted binding affinities.
-- **DrugGPT**: An autoregressive model using GPT for ligand design that explores vast chemical spaces.
-- **Lingo3DMol**: Utilizes a transformer-based approach for 3D molecular structure generation.
-- **Pocket2Mol**: An E(3)-equivariant generative network that efficiently samples molecular structures.
-- **RGA**: A reinforced genetic algorithm optimizing molecular designs for enhanced binding affinity.
+- **DiffSBDD**: A diffusion model that generates novel ligands with high predicted binding affinities. [View on GitHub](https://github.com/arneschneuing/DiffSBDD.git)
+- **DrugGPT**: An autoregressive model using GPT for ligand design that explores vast chemical spaces. [View on GitHub](https://github.com/LIYUESEN/druggpt.git)
+- **Lingo3DMol**: Utilizes a transformer-based approach for 3D molecular structure generation. [View on GitHub](https://github.com/stonewiseAIDrugDesign/Lingo3DMol.git)
+- **Pocket2Mol**: An E(3)-equivariant generative network that efficiently samples molecular structures. [View on GitHub](https://github.com/pengxingang/Pocket2Mol.git)
+- **RGA**: A reinforced genetic algorithm optimizing molecular designs for enhanced binding affinity. [View on GitHub](https://github.com/futianfan/reinforced-genetic-algorithm.git)
 
 ## Evaluation Metrics
 Our frameworks are evaluated based on several metrics, including:
-- **Virtual Docking**: Simulation of molecule and protein/enzyme interactions.
-- **Pharmacological Activity**: Measures the biological effects of drug molecules.
+- **Virtual Docking**: Simulation of molecule and protein/enzyme interactions. [View on GitHub] (https://github.com/coleygroup/pyscreener.git)
+- **Pharmacological Activity**: Measures the biological effects of drug molecules. [View on GitHub](https://github.com/diegolfor9/pCHEMBL-prediction.git)
+-**Toxicity**: Determine the safety and viability of molecules. [View on GitHub](https://github.com/chemprop/chemprop.git)
 - **Quantitative Estimation of Drug Likeness (QED)**: Indicates the likelihood of a molecule being a successful drug.
 - **Lipophilicity (LogP)**: Indicates the molecule's ability to penetrate cell membranes.
 - **Molecular Weight and Diversity**: Critical for assessing pharmacokinetics and structural variety.
