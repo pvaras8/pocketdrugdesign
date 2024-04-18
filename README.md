@@ -15,7 +15,7 @@ We employ several state-of-the-art algorithms including:
 Our frameworks are evaluated based on several metrics, including:
 - **Virtual Docking**: Simulation of molecule and protein/enzyme interactions. [View on GitHub] (https://github.com/coleygroup/pyscreener.git)
 - **Pharmacological Activity**: Measures the biological effects of drug molecules. [View on GitHub](https://github.com/diegolfor9/pCHEMBL-prediction.git)
--**Toxicity**: Determine the safety and viability of molecules. [View on GitHub](https://github.com/chemprop/chemprop.git)
+- **Toxicity**: Determine the safety and viability of molecules. [View on GitHub](https://github.com/chemprop/chemprop.git)
 - **Quantitative Estimation of Drug Likeness (QED)**: Indicates the likelihood of a molecule being a successful drug.
 - **Lipophilicity (LogP)**: Indicates the molecule's ability to penetrate cell membranes.
 - **Molecular Weight and Diversity**: Critical for assessing pharmacokinetics and structural variety.
