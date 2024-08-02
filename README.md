@@ -11,6 +11,11 @@ We employ several state-of-the-art algorithms including:
 - **Pocket2Mol**: An E(3)-equivariant generative network that efficiently samples molecular structures. [View on GitHub](https://github.com/pengxingang/Pocket2Mol.git)
 - **RGA**: A reinforced genetic algorithm optimizing molecular designs for enhanced binding affinity. [View on GitHub](https://github.com/futianfan/reinforced-genetic-algorithm.git)
 
+In addition, this GitHub will be constantly updated with novel Pocket-Based methods:
+
+- **TargetDiff**: A 3D equivariant diffusion model that generates target-aware molecules and predicts binding affinity. [View on GitHub](https://github.com/guanjq/targetdiff.git)
+- **ResGen**: A pocket-aware 3D molecular generation model based on parallel multi-scale modeling. [View on GitHub](https://github.com/HaotianZhangAI4Science/ResGen.git)
+
 ## Evaluation Metrics
 Our frameworks are evaluated based on several metrics, including:
 - **Virtual Docking**: Simulation of molecule and protein/enzyme interactions. [View on GitHub] (https://github.com/coleygroup/pyscreener.git)
