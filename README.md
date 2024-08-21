@@ -28,9 +28,6 @@ Our frameworks are evaluated based on several metrics, including:
 ## Results
 We analyze the performance of different molecular generation models using the above metrics, with special attention to their ability to generate diverse, innovative molecules that could serve as potential therapeutic agents.
 
-## Conclusions
-The application of AI in drug design has shown promising results in generating new molecules with high affinity for specific protein targets. Our algorithms are instrumental in navigating the vast chemical space and uncovering novel drug candidates.
-
 ## Code Availability
 The code used in our research, along with instructions for running the models, is available in this repository. This includes scripts for molecular docking simulations and evaluations using various computational tools.
 
