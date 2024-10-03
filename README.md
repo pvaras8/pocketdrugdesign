@@ -13,17 +13,18 @@ We employ several state-of-the-art algorithms including:
 
 In addition, this GitHub will be constantly updated with novel Pocket-Based methods:
 
-- **DrugAI**: [View on GitHub](https://github.com/dangjaya/drugAI.git)
-- **TamGent**: [View on GitHub](https://github.com/HankerWu/TamGent.git)
-- **DecompDiff**: [View on GitHub](https://github.com/bytedance/DecompDiff.git)
+- **DrugAI**: A transformer-based architecture that generates molecules conditioned on protein binding sites. [View on GitHub](https://github.com/dangjaya/drugAI.git)
+- **TamGent**: A transformer-based generative model designed for structure-based drug design. [View on GitHub](https://github.com/HankerWu/TamGent.git)
+- **DecompDiff**: A diffusion model that decomposes ligands into arms and scaffolds to generate optimized molecules. [View on GitHub](https://github.com/bytedance/DecompDiff.git)
 - **TargetDiff**: A 3D equivariant diffusion model that generates target-aware molecules and predicts binding affinity. [View on GitHub](https://github.com/guanjq/targetdiff.git)
-- **AutoGrow4**: [View on GitHub](https://github.com/durrantlab/autogrow4.git)
-- **LiGAN**: [View on GitHub](https://github.com/mattragoza/LiGAN.git)
-- **RELATION**: [View on GitHub](https://github.com/micahwang/RELATION.git)
-- **Pocket2Drug**: [View on GitHub](https://github.com/shiwentao00/Pocket2Drug.git)
-- **GraphBP**: [View on GitHub](https://github.com/divelab/GraphBP.git)
-- **AR**: [View on GitHub](https://github.com/luost26/3D-Generative-SBDD.git)
+- **AutoGrow4**: A genetic algorithm-based tool for growing molecules in the binding pocket of a protein. [View on GitHub](https://github.com/durrantlab/autogrow4.git)
+- **LiGAN**: A conditional variational autoencoder that generates ligands using 3D protein structures. [View on GitHub](https://github.com/mattragoza/LiGAN.git)
+- **RELATION**: A VAE-based model that generates molecules by capturing protein-ligand interactions in 3D. [View on GitHub](https://github.com/micahwang/RELATION.git)
+- **Pocket2Drug**: An encoder-decoder model that generates molecules directly from binding pockets using graph-based encodings. [View on GitHub](https://github.com/shiwentao00/Pocket2Drug.git)
+- **GraphBP**: A graph-based autoregressive model that builds molecules atom-by-atom within a binding pocket. [View on GitHub](https://github.com/divelab/GraphBP.git)
+- **AR**: An autoregressive 3D molecular generative model for structure-based drug design. [View on GitHub](https://github.com/luost26/3D-Generative-SBDD.git)
 - **ResGen**: A pocket-aware 3D molecular generation model based on parallel multi-scale modeling. [View on GitHub](https://github.com/HaotianZhangAI4Science/ResGen.git)
+
 
 
 ## Evaluation Metrics
