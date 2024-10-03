@@ -12,17 +12,19 @@ We employ several state-of-the-art algorithms including:
 - **RGA**: A reinforced genetic algorithm optimizing molecular designs for enhanced binding affinity. [View on GitHub](https://github.com/futianfan/reinforced-genetic-algorithm.git)
 
 In addition, this GitHub will be constantly updated with novel Pocket-Based methods:
--**DrugAI** https://github.com/dangjaya/drugAI.git
--**TamGent** https://github.com/HankerWu/TamGent.git
--**DecompDiff** https://github.com/bytedance/DecompDiff.git
+
+- **DrugAI**: [View on GitHub](https://github.com/dangjaya/drugAI.git)
+- **TamGent**: [View on GitHub](https://github.com/HankerWu/TamGent.git)
+- **DecompDiff**: [View on GitHub](https://github.com/bytedance/DecompDiff.git)
 - **TargetDiff**: A 3D equivariant diffusion model that generates target-aware molecules and predicts binding affinity. [View on GitHub](https://github.com/guanjq/targetdiff.git)
--**AutoGrow4**: https://github.com/durrantlab/autogrow4.git
--**LiGAN**: https://github.com/mattragoza/LiGAN.git
--**RELATION**: https://github.com/micahwang/RELATION.git
--**Pocket2Drug**: https://github.com/shiwentao00/Pocket2Drug.git
--**GraphBP** https://github.com/divelab/GraphBP.git
--**AR**: https://github.com/luost26/3D-Generative-SBDD.git
+- **AutoGrow4**: [View on GitHub](https://github.com/durrantlab/autogrow4.git)
+- **LiGAN**: [View on GitHub](https://github.com/mattragoza/LiGAN.git)
+- **RELATION**: [View on GitHub](https://github.com/micahwang/RELATION.git)
+- **Pocket2Drug**: [View on GitHub](https://github.com/shiwentao00/Pocket2Drug.git)
+- **GraphBP**: [View on GitHub](https://github.com/divelab/GraphBP.git)
+- **AR**: [View on GitHub](https://github.com/luost26/3D-Generative-SBDD.git)
 - **ResGen**: A pocket-aware 3D molecular generation model based on parallel multi-scale modeling. [View on GitHub](https://github.com/HaotianZhangAI4Science/ResGen.git)
+
 
 ## Evaluation Metrics
 Our frameworks are evaluated based on several metrics, including:
